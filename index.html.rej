@@ -1,0 +1,12 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="ja">
++<head>
++	<meta charset="UTF-8">
++	<title>GitTest</title>
++</head>
++<body>
++	<h1>GitTest</h1>
++</body>
++</html>
